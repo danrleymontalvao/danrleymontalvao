@@ -1,13 +1,10 @@
 ## Olá, me chamo Danrley Montalvão!
 ### Bem vindo (a) ao meu repositório do GitHub!! 👋
 
-### Formações e experiências:
-- Sou Bacharel em Ciências Exatas e Tecnológicas e em Engenharia Mecânica;
-- Durante a graduação, fui Coordenador de Direção da equipe Reconbaja SAE da UFRB;
-- Tenho experiência como Analista Administrativo e de Marketing;
-- Estou em transição de carreira para Data Science desde o início de 2022;
-- Experiência com projetos de Análise Exploratória de Dados utilizando Python, SQL, Excel e Power BI;
-- Experiência com criação de Marketing Analytics Dashboard utilizando Google Data Studio;
+### Sobre mim:
+Sou uma pessoa apaixonada por tecnologia e negócios, com formação em Engenharia Mecânica e pós-graduação em andamento em Inteligência Artificial pela Faculdade VINCIT. 
+
+Tenho experiência comprovada de dois anos atuando como Analista de Dados em empresas como Trinus Co. e Simplesmente Comércio de Alimentos Ltda., com foco no desenvolvimento de soluções analíticas para otimizar processos de tomada de decisão e gerar insights acionáveis. Domino áreas como produtos, design, marketing digital, e conhecimento técnico em Power BI, Excel, SQL, Python, Machine Learning, Google Analytics, DBT, Databricks, Looker Studio e outras.
 
 ### Contatos:
 <div>
