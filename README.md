@@ -2,9 +2,12 @@
 ### Bem vindo (a) ao meu repositório do GitHub!! 👋
 
 ### Sobre mim:
-Sou uma pessoa apaixonada por tecnologia e negócios, com formação em Engenharia Mecânica e pós-graduação em andamento em Inteligência Artificial pela Faculdade VINCIT. 
+Profissional de Dados graduado em Engenharia Mecânica pela UFRB e Pós Graduando em Inteligência Artificial pela PUC GO. Meu foco é transformar dados em estratégias valiosas para as empresas. 
 
-Tenho experiência comprovada de dois anos atuando como Analista de Dados em empresas como Trinus Co. e Simplesmente Comércio de Alimentos Ltda., com foco no desenvolvimento de soluções analíticas para otimizar processos de tomada de decisão e gerar insights acionáveis. Domino áreas como produtos, design, marketing digital, e conhecimento técnico em Power BI, Excel, SQL, Python, Machine Learning, Google Analytics, DBT, Databricks, Looker Studio e outras.
+Tenho experiência no desenvolvimento de soluções analíticas para otimizar processos de tomada de decisão e gerar insights acionáveis. 
+
+Possuo experiência técnica no desenvolvimento de produtos de dados com Python, Power BI, SQL,
+Looker Studio, Metabase e Streamlit. Também possuo experiência no desenvolvimento de soluções com Machine Learning (Regressão, Classificação e Clusterização) e IA Generativa (RAG).
 
 ### Contatos:
 <div>
